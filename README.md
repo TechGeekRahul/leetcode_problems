@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahul967/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Rahul967/leetcode_problems/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Rahul967/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul967/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rahul967/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -40,8 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahul967/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Rahul967/leetcode_problems/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahul967/leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Rahul967/leetcode_problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
