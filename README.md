@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahul967/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rahul967/leetcode_problems/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rahul967/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
