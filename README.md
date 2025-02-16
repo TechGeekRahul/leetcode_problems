@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahul967/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rahul967/leetcode_problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/Rahul967/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rahul967/leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rahul967/leetcode_problems/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Rahul967/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rahul967/leetcode_problems/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rahul967/leetcode_problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rahul967/leetcode_problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
