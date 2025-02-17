@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rahul967/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rahul967/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul967/leetcode_problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Rahul967/leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rahul967/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul967/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rahul967/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rahul967/leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Rahul967/leetcode_problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rahul967/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Rahul967/leetcode_problems/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
