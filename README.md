@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rahul967/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahul967/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rahul967/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul967/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Rahul967/leetcode_problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Rahul967/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahul967/leetcode_problems/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul967/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Rahul967/leetcode_problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
