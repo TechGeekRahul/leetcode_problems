@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rahul967/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/Rahul967/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rahul967/leetcode_problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rahul967/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rahul967/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahul967/leetcode_problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rahul967/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Rahul967/leetcode_problems/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rahul967/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
