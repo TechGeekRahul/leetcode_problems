@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rahul967/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rahul967/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rahul967/leetcode_problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/TechGeekRahul/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Rahul967/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Rahul967/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Rahul967/leetcode_problems/tree/master/0812-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/TechGeekRahul/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Rahul967/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
