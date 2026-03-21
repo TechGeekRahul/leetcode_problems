@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rahul967/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul967/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Rahul967/leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0796-rotate-string](https://github.com/TechGeekRahul/leetcode_problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Rahul967/leetcode_problems/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/TechGeekRahul/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Rahul967/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/TechGeekRahul/leetcode_problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Rahul967/leetcode_problems/tree/master/0812-rotate-string) |
 ## Simulation
 |  |
