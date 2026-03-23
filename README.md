@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul967/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/TechGeekRahul/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Rahul967/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/TechGeekRahul/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Rahul967/leetcode_problems/tree/master/0146-lru-cache) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TechGeekRahul/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Rahul967/leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rahul967/leetcode_problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Rahul967/leetcode_problems/tree/master/1013-fibonacci-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul967/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/TechGeekRahul/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rahul967/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Rahul967/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/TechGeekRahul/leetcode_problems/tree/master/0076-minimum-window-substring) |
